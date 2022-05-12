@@ -1,5 +1,7 @@
 # JS Debugging Exercises
-Debugging solutions
+
+#### Debugging [Questions](https://codepen.io/wearepixeltocode/pen/poaEWQj)
+#### Debugging solutions
 
 Answer the following questions:
 
